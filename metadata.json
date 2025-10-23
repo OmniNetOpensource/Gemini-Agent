@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Task Agent",
+  "description": "An intelligent agent that assists with task planning and execution by breaking down complex problems into manageable steps and streaming the execution process.",
+  "requestFramePermissions": []
+}
